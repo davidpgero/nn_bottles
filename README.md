@@ -1,6 +1,6 @@
 # NnBottles
 
-99 bottles problem. I've just started to read [99 Bottles of OOP][https://www.sandimetz.com/99bottles/] book.
+99 bottles problem. I've just started to read [99 Bottles of OOP](https://www.sandimetz.com/99bottles/) book.
 
 ## Installation
 
