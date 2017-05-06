@@ -4,8 +4,6 @@
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
 ```ruby
 cd nn_bottles
 gem install bundler
